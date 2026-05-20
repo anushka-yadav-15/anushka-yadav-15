@@ -181,7 +181,7 @@ React.js • JavaScript • TailwindCSS • Bootstrap • Vite
 
 <div align="center">
 
-<img src="[https://leetcard.jacoblin.cool/](https://leetcode.com/yadav-anushka/)?theme=dark&font=Nunito&ext=heatmap"/>
+<img src="[https://leetcode.com/yadav-anushka/]?theme=dark&font=Nunito&ext=heatmap"/>
 
 </div>
 
